@@ -1,7 +1,7 @@
 main() {
   print("PROGRAM OPERATOR");
-  double a = 28;
-  double b = 12;
+  double a = 28000;
+  double b = 12000;
   double hasil;
   // operator penjumlahan
   hasil = a + b;
